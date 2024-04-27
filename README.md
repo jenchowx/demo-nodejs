@@ -45,7 +45,7 @@ Command Line:
 This will create the file if it doesn't exist or will display the file content
 
 Add the below command to the file:
-IdentifyFile ~/.ssh/jenx_macbook
+IdentityFile ~/.ssh/jenx_macbook
 
 To save the file, type:
 ctrl + x
