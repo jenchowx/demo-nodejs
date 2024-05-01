@@ -8,3 +8,4 @@ Follow the github.com doc to add a SSH key
 
 1.  Open index.html in your browswer
 2.  Hands on git command
+3.  Trying to figure how why git diff not showing anything
